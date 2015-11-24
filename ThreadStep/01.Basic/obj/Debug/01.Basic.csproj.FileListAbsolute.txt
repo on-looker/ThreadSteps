@@ -1,0 +1,6 @@
+c:\users\hm\documents\visual studio 2015\Projects\ThreadStep\01.Basic\bin\Debug\01.Basic.exe.config
+c:\users\hm\documents\visual studio 2015\Projects\ThreadStep\01.Basic\bin\Debug\01.Basic.exe
+c:\users\hm\documents\visual studio 2015\Projects\ThreadStep\01.Basic\bin\Debug\01.Basic.pdb
+c:\users\hm\documents\visual studio 2015\Projects\ThreadStep\01.Basic\obj\Debug\01.Basic.csprojResolveAssemblyReference.cache
+c:\users\hm\documents\visual studio 2015\Projects\ThreadStep\01.Basic\obj\Debug\01.Basic.exe
+c:\users\hm\documents\visual studio 2015\Projects\ThreadStep\01.Basic\obj\Debug\01.Basic.pdb
